@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "New 1",
-    "currentPage": "ytupytu.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,7 +39,7 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "ytupytu.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
